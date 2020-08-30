@@ -1,0 +1,19 @@
+h2 {
+    background-color:goldenrod;
+    text-align: center;
+}
+
+#res {
+    text-align: center;
+}
+
+#bir{
+    text-align: left;
+}
+
+#iki {
+    background-color: blueviolet;
+    color: chartreuse;
+    padding: 20px;
+    margin: 20px;
+}

@@ -1,0 +1,24 @@
+.ornek{
+    width: 1000px;
+    margin: auto;
+}
+
+.res{
+    width: 200px;
+    height: 200px;
+    border: chocolate;
+    background-color: cornflowerblue;
+    float: left;
+    position: absolute;
+}
+
+.bir{
+    text-align: left;
+    background-color: chartreuse;
+    float: left;
+}
+
+.ikin{
+    background-color: chocolate;
+    float: left;
+}
